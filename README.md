@@ -10,7 +10,7 @@
 
 Este projeto é um estudo que visa a criação de um site do filme **"Mario Bros",** utilizando _HTML_ e _CSS_.
 
-## 🚀 Tecnologias Utilizadas:
+## 🚀 Tecnologias utilizadas:
 
 - [x] HTML;
 - [x] CSS;
